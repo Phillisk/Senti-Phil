@@ -1,0 +1,20 @@
+*****************************************************************************************
+*****************************************************************************************
+++++++++	+++++++++	+	++++++++	+		+	+++++++++
++	+	+	      +   +	+	+	+ +	      + +	+
++	+	+	     +     +	+	+	+   +        +	+	+
++      +	+++++++++   +++++++++	+	+	+    +	    +	+	+++++++++
++     +		+	    +	    +	+	+	+     +	   +	+	+
++      +	+	    +	    +	+	+	+       +	+	+
++	+	+++++++++   +	    +	++++++++	+	+	+	+++++++++
+Some of the libraries that are required for this project might be outdated by the time of
+installation.
+
+If that is the case, kindly note them in the 'install.sh' file and promptly install them
+on your own for the easy working of the project.
+
+Incase of additional information.
+
+email - phillopez39@gmail.com 
+*****************************************************************************************
+*****************************************************************************************

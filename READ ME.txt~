@@ -1,0 +1,6 @@
+Open a terminal and type in:
+	chmod +x install.sh
+	./install.sh
+
+then navigate to the folder where the project is and type in:
+	python trial.py
